@@ -1,3 +1,4 @@
+# KU 김재웅 InfoTheory HW4
 import random
 import numpy as np
 import matplotlib.pyplot as plt
